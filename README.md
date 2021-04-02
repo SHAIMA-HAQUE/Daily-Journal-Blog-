@@ -1,1 +1,2 @@
-# Daily-Journal-Blog-
+# Daily-Journal-Blog
+
